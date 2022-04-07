@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ec4f6ba93526e49a917f22674fef06, type: 3}
+  m_Name: Knives
+  m_EditorClassIdentifier: 
+  prefabName: Knife
+  numberOfPrefabsToCreate: 3
+  spawnPoints:
+  - {x: 4.083864, y: 3.3488486, z: 96}
+  - {x: -2.2863393, y: 4.7608175, z: 96}
+  - {x: -4.9223776, y: -1.9138771, z: 96}
+  - {x: -3.9589887, y: -3.4955883, z: 96}
+  - {x: 0.9766485, y: -5.1902685, z: 96}
+  - {x: 4.319215, y: -3.039261, z: 96}
+  spawnRotations:
+  - {x: -0, y: -0, z: 0.9046785, w: 0.4260949}
+  - {x: 0, y: -0, z: 0.97464454, w: -0.2237591}
+  - {x: 0, y: -0, z: 0.5631348, w: -0.826365}
+  - {x: 0, y: -0, z: 0.40952104, w: -0.9123007}
+  - {x: -0, y: -0, z: -0.09466692, w: -0.995509}
+  - {x: -0, y: -0, z: -0.46232963, w: -0.88670814}
